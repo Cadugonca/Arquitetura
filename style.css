@@ -1,0 +1,123 @@
+*{
+    margin: 0;
+}
+
+#MenuInicial{
+    background-color: #303030;
+}
+
+#TituloMenu{
+    color: #F9F9F9;
+    padding-top: 206px;
+    padding-left: 62px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    font-size: 50px;
+}
+
+#frasemenu{
+    color: #F9F9F9;
+    margin-top: 20px;
+    margin-left: 62px;
+    font-family: 'Inter', sans-serif;
+    padding-bottom: 149px;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 28px;
+}
+
+#info{
+    font-family: 'Inter';
+    color:black;
+    background-color: #F9F9F9;
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+    align-items: center;
+}
+
+.frase{
+padding-bottom: 50px;
+margin-top: 40px;
+margin-left: 65px;
+align-items: center;
+font-family: "Inter";
+font-size: 20px;
+}
+
+.numero-em-negrito {
+    font-weight: bold;
+    font-size: 40px
+  }
+
+  #apr{
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+    align-items: center;
+    font-family: 'Inter';
+}
+
+#textoapr{
+ padding-left: 90px;
+}
+
+#casa{
+    padding: 50px;
+    width: 510px;
+    height: 605px;
+}
+
+#tituloapr{
+    font-size: 33px;
+    font-weight: 500;
+    margin-bottom: 50px;
+}
+
+#cadastro{
+    color: white;
+    background-color: #303030;
+    text-align: center;
+    font-size: 12px;
+    font-family: 'Inter';
+}
+ #titulocadastro{
+    padding-top: 50px;
+    padding-bottom: 20px;
+ }
+
+ .info{
+    width: 408px;
+    height: 52px;
+    border-radius: 10px;
+    background: #FFF;
+    margin: 25px;
+    padding-left: 15px;
+    font-family: 'Raleway', sans-serif;;
+    font-weight: 700;
+ }
+
+ #bot{
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+    width: 186px;
+    height: 54px;
+    border-radius: 10px;
+    margin-bottom: 75px;
+    cursor: pointer;
+    background-color: #C07212;
+ }
+
+ input{
+    margin: 15px;
+ }
+  
+ #bot:hover{
+    background-color: #8f5712;
+    transform: translateY(-7px);
+    transition-duration: 0.5s;
+  }
+
+
